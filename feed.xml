@@ -7,28 +7,30 @@
     <description>Clog - Coding blog</description>
     <link>https://arafat-al-mahmud.github.io//</link>
     <atom:link href="https://arafat-al-mahmud.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Oct 2017 18:28:56 +0600</pubDate>
-    <lastBuildDate>Fri, 06 Oct 2017 18:28:56 +0600</lastBuildDate>
+    <pubDate>Sat, 07 Oct 2017 00:37:26 +0600</pubDate>
+    <lastBuildDate>Sat, 07 Oct 2017 00:37:26 +0600</lastBuildDate>
     <generator>Jekyll v3.4.4</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt; &lt;li&gt;&lt;a href=&quot;#examples&quot; id=&quot;markdown-toc-examples&quot;&gt;Examples&lt;/a&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#-table&quot; id=&quot;markdown-toc--table&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot; class=&quot;fa fa-table&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Table&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#-list&quot; id=&quot;markdown-toc--list&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot; class=&quot;fa fa-list&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; List&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#-image-responsive-plugin-imager&quot; id=&quot;markdown-toc--image-responsive-plugin-imager&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot; class=&quot;fa fa-file-image-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Image responsive (plugin Imager)&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#code-in-one-line---text&quot; id=&quot;markdown-toc-code-in-one-line---text&quot;&gt;Code in one line - Text&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#unlighted-code&quot; id=&quot;markdown-toc-unlighted-code&quot;&gt;Unlighted code&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#gist-code&quot; id=&quot;markdown-toc-gist-code&quot;&gt;Gist code&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#--music&quot; id=&quot;markdown-toc---music&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot; class=&quot;fa fa-music&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Music&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Hi! :hand:&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.webpagefx.com/tools/emoji-cheat-sheet/&quot; target=&quot;_blank&quot;&gt;Emoji Syntax&lt;/a&gt;&lt;/p&gt; &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways,...</description>
-        <pubDate>Wed, 12 Apr 2017 14:16:01 +0600</pubDate>
-        <link>https://arafat-al-mahmud.github.io//blog/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://arafat-al-mahmud.github.io//blog/welcome-to-jekyll/</guid>
+        <title>Grokking Lambda</title>
+        <description>&lt;p&gt;Lambda functions !&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Test&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;){&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Hello World !&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr style=&quot;border-top: 1px solid #9D9D9D ; color: #9D9D9D ;&quot; class=&quot;endpost&quot; /&gt;
+
+</description>
+        <pubDate>Fri, 06 Oct 2017 00:00:00 +0600</pubDate>
+        <link>https://arafat-al-mahmud.github.io//blog/grokking-lambda/</link>
+        <guid isPermaLink="true">https://arafat-al-mahmud.github.io//blog/grokking-lambda/</guid>
         
-        <tag>example</tag>
+        <tag>java</tag>
         
-        <tag>welcome</tag>
-        
-        <tag>jekyll</tag>
-        
-        <tag>typing</tag>
-        
-        <tag>responsive</tag>
-        
-        <tag>simple</tag>
+        <tag>lambda</tag>
         
       </item>
     

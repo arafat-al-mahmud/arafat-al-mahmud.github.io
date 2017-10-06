@@ -1,1 +1,1 @@
-jQuery(document).ready(function(t){t(".post > .row.content a").addClass("ga-event"),t(".hello > .row.content a").addClass("ga-event"),t("a.ga-event").attr("onclick","ga('send','event','LinkTo',this.href,'http://localhost:4000');")});
+jQuery(document).ready(function(a){a(".post > .row.content a").addClass("ga-event"),a(".hello > .row.content a").addClass("ga-event"),a("a.ga-event").attr("onclick","ga('send','event','LinkTo',this.href,'https://arafat-al-mahmud.github.io/');")});
